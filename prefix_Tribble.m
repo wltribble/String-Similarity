@@ -1,16 +1,3 @@
-% Course: CSCI 251, Section 3
-% Student Name: Will Tribble
-% Student ID: 10540462
-% Programming Assignment 4 Homework
-% Due Date: 26 Oct. 2015
-
-% In keeping with the Honor Code of UM, I have neither given nor received
-% assistance from anyone other than the instructor.
-
-% Program Description: This program reads in two sentences and then 
-% identifies the longest common prefix between them. If there is no common 
-% prefix, then output No common prefix. 
-
 % Clear windows
 clc
 clear
